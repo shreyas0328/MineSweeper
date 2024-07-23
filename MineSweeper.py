@@ -1,12 +1,5 @@
-"""
-6.101 Lab 7:
-Six Double-Oh Mines
-"""
-#!/usr/bin/env python3
+
 import doctest
-
-# NO ADDITIONAL IMPORTS ALLOWED!
-
 
 def dump(game):
     """
